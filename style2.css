@@ -1,0 +1,140 @@
+.navbar{
+    display: flex;
+    padding: 15px;
+    color: white;
+    background-color: rgb(99, 147, 237);
+}
+.name{
+    font-family: Arial;
+    font-size: 30px;
+    width: 10%;
+    margin-left: 16%;
+}
+.search input{
+    border: none;
+    background-color: #2C4869;
+    border-radius: 20px;
+    padding: 7px 20px;
+}
+.main{
+    display: flex;
+    padding: 20px 0px 0px 0px;
+}
+.left{
+    width: 20%;
+    color: rgb(79, 108, 157);
+}
+.left .text{
+    position: absolute;
+    left: 180px;
+    bottom: 420px;
+}
+.center{
+    width: 45%;
+    
+}
+.asd{
+    display: flex;
+    margin: 0px 20px;
+    border: 1px solid lightgray;
+    border-radius: 2px;
+    padding: 0px 20px;
+}
+.qwe{
+    width: 20%;
+    text-align: right;
+}
+.btn{
+    width: 150px;
+    height: 30px;
+    position: absolute;
+    bottom: 655px;
+    left: 800px;
+    text-align: center;
+    border: 0px;
+    border-radius: 5px;
+    background-color: #4277A5;
+    color: white;
+}
+.kkk{
+    color: #8CA6C5;
+}
+.dsa{
+    border: 1px solid lightgray;
+    border-radius: 2px;
+    padding: 0px 60px;
+    margin: 0px 20px;
+}
+.frends{
+    display: flex;
+    border: 1px solid lightgray;
+    border-radius: 2px;
+    padding: 0px 0px 7px;
+    margin: 0px 20px;
+}
+.img{
+    margin: 15px 17px 0px;
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+}
+.ert{
+    display: flex;
+}
+.rrr{
+    position: absolute;
+    left: 920px;
+    font-size: 35px;
+    color: #4D84B3;
+}
+.hhh{
+    font-weight: bold;
+    margin: 20px 0px 0px;
+    color: #4D84B3;
+}
+.qqq{
+    
+    font-size: 17px;
+    color: #A4ADC9;
+}
+.www{
+
+    color: #5E90C5;
+}
+.right{
+    width: 20%;
+}
+.info{
+    border: 1px solid lightgray;
+    border-radius: 2px;
+    padding: 10px 10px 0px;
+    color: #8CA6C5;
+}
+.zzz{
+    font-weight: bold;
+    color: black;
+}
+.vozmozhno{
+    position: absolute;
+    top: 350px;
+    width: 19.7%;
+    border: 1px solid lightgray;
+    border-radius: 2px;
+}
+.ggg{
+    padding: 10px 20px 0px;
+    color: #8CA6C5;
+}
+.ewq{
+    display: flex;
+}
+.syret{
+    margin: 15px 17px 0px;
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+}
+.soz{
+    margin: 15px 0px;
+    color: #8CA6C5;
+}
