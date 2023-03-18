@@ -31,7 +31,7 @@
 }
 .center{
     width: 45%;
-    
+
 }
 .asd{
     display: flex;
@@ -93,7 +93,7 @@
     color: #4D84B3;
 }
 .qqq{
-    
+
     font-size: 17px;
     color: #A4ADC9;
 }
@@ -115,9 +115,7 @@
     color: black;
 }
 .vozmozhno{
-    position: absolute;
-    top: 350px;
-    width: 19.7%;
+    width: 300px;
     border: 1px solid lightgray;
     border-radius: 2px;
 }

@@ -1,3 +1,7 @@
+body{
+    margin: 0;
+    box-sizing: border-box;
+}
 .navbar{
     display: flex;
     padding: 15px;
@@ -18,34 +22,33 @@
 }
 .main{
     display: flex;
-    padding: 20px 0px 0px 0px;
+    padding: 20px;
 }
 .left{
     width: 20%;
     color: rgb(79, 108, 157);
+    display: flex;
+    justify-content: flex-end;
 }
-.left .text{
-    position: absolute;
-    left: 180px;
-    bottom: 400px;
+.text{
+    padding: 0px 50px;
 }
 .center {
     padding: 20px;
-    width: 35%;
+    width: 20%;
 }
 .avatar{
     padding: 20px;
     border: 1px solid lightgray;
     border-radius: 5px;
-	height: 25px  0px;  
-    width: 42%;
+    width: 250px;
 }
 .avatar img{
     width: 100%;
 }
 .btn{
     border-radius: 5px;
-    width: 220px;
+    width: 250px;
     background-color: #E7EAED;
     color: #36708A;
     text-align: center;
@@ -56,7 +59,7 @@
     margin: 20px 0px;
     border: 1px solid lightgray;
     border-radius: 5px;
-    width: 50%;
+    width: 100%;
 }
 .soz{
     color: #36708A;
@@ -70,6 +73,7 @@
     height: 50px;
     width: 50px;
     border-radius: 50%;
+
 }
 .qwe{
     text-align: center;
@@ -80,11 +84,12 @@
 .dostar{
     display: flex;
 }
+.right{
+    padding: 20px;
+    width: 47%;
+
+}
 .information{
-    position: absolute;
-    right: 220px;
-    bottom: 282px;
-    width: 45%;
     border: 1px solid lightgray;
     border-radius: 5px;
 }
@@ -93,7 +98,7 @@
 }
 .atu{
     padding: 0px 22px;
-    
+
 }
 .online{
     width: 70%;
@@ -122,10 +127,8 @@
     padding: 0px 15px;
 }
 .photo{
-    position: absolute;
-    right: 220px;
-    bottom: 65px;
-    width: 45%;
+    width: 94%;
+    padding: 20px;
     border: 1px solid lightgray;
     border-radius: 5px;
 }
@@ -137,10 +140,8 @@
     padding: 10px;
 }
 .posts{
-    position: absolute;
-    right: 220px;
-    top: 745px;
-    width: 45%;
+    width: 94%;
+    padding: 20px;
     border: 1px solid lightgray;
     border-radius: 5px;
 }
